@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kunal0133/DSA/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal0133/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal0133/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Kunal0133/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -31,8 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal0133/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Kunal0133/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal0133/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Kunal0133/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->

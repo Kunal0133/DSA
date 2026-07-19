@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Kunal0133/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0525-contiguous-array](https://github.com/Kunal0133/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal0133/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kunal0133/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Kunal0133/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0986-interval-list-intersections](https://github.com/Kunal0133/DSA/tree/master/0986-interval-list-intersections) |
 ## Sweep Line
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal0133/DSA/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kunal0133/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Kunal0133/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->

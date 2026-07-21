@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Kunal0133/DSA/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/Kunal0133/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal0133/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0503-next-greater-element-ii](https://github.com/Kunal0133/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Kunal0133/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal0133/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal0133/DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal0133/DSA/tree/master/0020-valid-parentheses) |
+| [0503-next-greater-element-ii](https://github.com/Kunal0133/DSA/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kunal0133/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kunal0133/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Kunal0133/DSA/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

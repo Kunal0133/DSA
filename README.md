@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kunal0133/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Kunal0133/DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Kunal0133/DSA/tree/master/0739-daily-temperatures) |
+| [0904-fruit-into-baskets](https://github.com/Kunal0133/DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Kunal0133/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kunal0133/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Kunal0133/DSA/tree/master/0986-interval-list-intersections) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Kunal0133/DSA/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Kunal0133/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunal0133/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/Kunal0133/DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kunal0133/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Kunal0133/DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Prefix Sum
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Kunal0133/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kunal0133/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Kunal0133/DSA/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Kunal0133/DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->

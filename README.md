@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Kunal0133/DSA/tree/master/0076-minimum-window-substring) |
 | [0142-linked-list-cycle-ii](https://github.com/Kunal0133/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0383-ransom-note](https://github.com/Kunal0133/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal0133/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kunal0133/DSA/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/Kunal0133/DSA/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Kunal0133/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kunal0133/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Kunal0133/DSA/tree/master/0409-longest-palindrome) |
@@ -135,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Kunal0133/DSA/tree/master/0076-minimum-window-substring) |
 | [0904-fruit-into-baskets](https://github.com/Kunal0133/DSA/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->

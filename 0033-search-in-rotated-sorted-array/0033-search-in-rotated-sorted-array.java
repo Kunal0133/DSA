@@ -14,12 +14,12 @@ class Solution {
                     low=guess+1;
                 }
                 else{
-                    if(a[low]<=target){
-                        high=guess-1;
+                    if(a[low]>target){
+                        low=guess+1;
 
                     }
                     else{
-                        low=guess+1;
+                        high=guess-1;
                     }
                 }
                 continue;

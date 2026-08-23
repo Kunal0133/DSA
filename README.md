@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kunal0133/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Kunal0133/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Kunal0133/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1927-sum-game](https://github.com/Kunal0133/DSA/tree/master/1927-sum-game) |
 ## Stack
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/Kunal0133/DSA/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/Kunal0133/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Kunal0133/DSA/tree/master/1927-sum-game) |
 ## Recursion
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Kunal0133/DSA/tree/master/0202-happy-number) |
+| [1927-sum-game](https://github.com/Kunal0133/DSA/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kunal0133/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Kunal0133/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Ternary Search
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kunal0133/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Kunal0133/DSA/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->

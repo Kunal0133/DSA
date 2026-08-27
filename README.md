@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Kunal0133/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kunal0133/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Kunal0133/DSA/tree/master/0202-happy-number) |
 | [1927-sum-game](https://github.com/Kunal0133/DSA/tree/master/1927-sum-game) |

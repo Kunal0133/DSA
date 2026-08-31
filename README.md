@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Kunal0133/DSA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Kunal0133/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kunal0133/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Kunal0133/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Kunal0133/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Kunal0133/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kunal0133/DSA/tree/master/0344-reverse-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kunal0133/DSA/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/Kunal0133/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Kunal0133/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/Kunal0133/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Kunal0133/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kunal0133/DSA/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/Kunal0133/DSA/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Kunal0133/DSA/tree/master/0202-happy-number) |
 | [1927-sum-game](https://github.com/Kunal0133/DSA/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Kunal0133/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Kunal0133/DSA/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Kunal0133/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |

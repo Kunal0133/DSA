@@ -47,3 +47,14 @@
 *Last updated: 2026-10-24* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kunal0133/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+## Binary Search
+|  |
+| ------- |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Kunal0133/DSA/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+<!---LeetCode Topics End-->

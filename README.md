@@ -47,3 +47,30 @@
 *Last updated: 2026-10-26* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Kunal0133/DSA/tree/master/0767-reorganize-string) |
+## String
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Kunal0133/DSA/tree/master/0767-reorganize-string) |
+## Greedy
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Kunal0133/DSA/tree/master/0767-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Kunal0133/DSA/tree/master/0767-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Kunal0133/DSA/tree/master/0767-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0767-reorganize-string](https://github.com/Kunal0133/DSA/tree/master/0767-reorganize-string) |
+<!---LeetCode Topics End-->
